@@ -1,1 +1,1 @@
-# sio-skills-2022
+# sio-skills
